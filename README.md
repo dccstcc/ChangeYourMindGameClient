@@ -101,7 +101,7 @@ React.js JavaScript framework for build frontend solutions is need. <br />
 1. Clone the repo with game frontend
 
    ```sh
-   git clone https://github.com/dominik-stec/BoardGame_frontend_ReactJS_PJA.git
+   git clone https://github.com/dominik-stec/BoardGame_frontend_React.git
    ```
 
 2. Install React framework by npm
@@ -120,7 +120,7 @@ React.js JavaScript framework for build frontend solutions is need. <br />
 Go to backend project repository
 
 ```sh
-https://github.com/dominik-stec/BoardGame_backend_ExpressJS_PJA
+https://github.com/dominik-stec/BoardGame_backend_Express
 ```
 
 clone and run game backend according to instructions
@@ -194,13 +194,13 @@ See `LICENSE` for more information.
 
 ## Contact
 
-Dominik Stec - dominikstec@devapp.tools
+Dominik Stec - dccstcc@gmail.com
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 Project URL:
 <br />
-`https://github.com/dominik-stec/BoardGame_frontend_ReactJS_PJA.git`
+`https://github.com/dominik-stec/BoardGame_frontend_React.git`
 
 <!-- ACKNOWLEDGEMENTS
 ## Acknowledgements
@@ -221,16 +221,16 @@ Project URL:
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/dominik-stec/BoardGame_frontend_ReactJS_PJA.svg?style=for-the-badge
-[contributors-url]: https://github.com/dominik-stec/BoardGame_frontend_ReactJS_PJA/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/dominik-stec/BoardGame_frontend_ReactJS_PJA.svg?style=for-the-badge
-[forks-url]: https://github.com/dominik-stec/BoardGame_frontend_ReactJS_PJA/network/members
-[stars-shield]: https://img.shields.io/github/stars/dominik-stec/BoardGame_frontend_ReactJS_PJA.svg?style=for-the-badge
-[stars-url]: https://github.com/dominik-stec/BoardGame_frontend_ReactJS_PJA/stargazers
-[issues-shield]: https://img.shields.io/github/issues/dominik-stec/BoardGame_frontend_ReactJS_PJA.svg?style=for-the-badge
-[issues-url]: https://github.com/dominik-stec/BoardGame_frontend_ReactJS_PJA/issues
+[contributors-shield]: https://img.shields.io/github/contributors/dominik-stec/BoardGame_frontend_React.svg?style=for-the-badge
+[contributors-url]: https://github.com/dominik-stec/BoardGame_frontend_React/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/dominik-stec/BoardGame_frontend_React.svg?style=for-the-badge
+[forks-url]: https://github.com/dominik-stec/BoardGame_frontend_React/network/members
+[stars-shield]: https://img.shields.io/github/stars/dominik-stec/BoardGame_frontend_React.svg?style=for-the-badge
+[stars-url]: https://github.com/dominik-stec/BoardGame_frontend_React/stargazers
+[issues-shield]: https://img.shields.io/github/issues/dominik-stec/BoardGame_frontend_React.svg?style=for-the-badge
+[issues-url]: https://github.com/dominik-stec/BoardGame_frontend_React/issues
 [license-shield]: https://img.shields.io/badge/License-NONE-orange
-[license-url]: https://github.com/dominik-stec/BoardGame_frontend_ReactJS_PJA/blob/master/LICENSE.md
+[license-url]: https://github.com/dominik-stec/BoardGame_frontend_React/blob/master/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/dominik-stec
 [product-screenshot]: images/screenshot.png
